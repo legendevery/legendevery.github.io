@@ -23,7 +23,6 @@ color:
 # Footer settings
 footer:
   copyright: Legendevery
-  location: Cork, Ireland
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -33,11 +32,6 @@ social:
     url: https://stackoverflow.com/users/1196369/mickadoo
   - title: github
     url: http://github.com/mickadoo
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Cork City
-  - line: Ireland
 
 # Build settings
 markdown: kramdown
