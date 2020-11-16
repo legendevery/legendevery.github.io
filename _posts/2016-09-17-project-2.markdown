@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2016-09-17
+img: literacy_solutions.png
+alt: image-alt
+project-date: Sept 2016
+client: Literacy Solutions
+link: https://www.literacysolutions.com.au/courses/course-registration.php
+description: The client needed a course registration system, gathering multiple details, processing the form and storing the order details. 
+---

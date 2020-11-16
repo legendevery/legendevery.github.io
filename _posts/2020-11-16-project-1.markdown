@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2020-11-16
+img: cork_council_tracker.png
+alt: Cork Council Tracker
+project-date: Nov 2019
+category: Web Development
+link: https://corkcounciltracker.ie
+description: Addressing the need for more accessible data on local council activity, the site was developer to first 
+    import all historic meeting data from Cork City Council, structure the data and make is publicly available.
+---
