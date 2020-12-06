@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2020-12-06
+img: duolingo_event_notifications.png
+alt: Duolingo Event Notifications
+project-date: Dec 2020
+category: Web Development
+link: https://duolingoevents.com
+description: The popular language learning platform offers free events for learners to attend via Zoom.
+    However, there is no notification system and this site offers a way to subscribe to upcoming event notifications.
+---
