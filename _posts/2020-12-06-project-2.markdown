@@ -9,4 +9,7 @@ category: Web Development
 link: https://duolingoevents.com
 description: The popular language learning platform offers free events for learners to attend via Zoom.
     However, there is no notification system and this site offers a way to subscribe to upcoming event notifications.
+    <br/><br/>
+    It's built in the PHP Symfony framework and pulls data from the Duolingo API and uses the Mailgun API to send mails.
+    Currently it is hosted on Digital Ocean.
 ---

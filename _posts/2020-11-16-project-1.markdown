@@ -9,4 +9,6 @@ category: Web Development
 link: https://corkcounciltracker.ie
 description: Addressing the need for more accessible data on local council activity, the site was developer to first 
     import all historic meeting data from Cork City Council, structure the data and make is publicly available.
+    <br/><br/>
+    It's built using the latest PHP and Symfony versions and is hosted in Google Cloud.
 ---
