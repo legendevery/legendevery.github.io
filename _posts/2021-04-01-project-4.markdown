@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2020-09-17
+img: petermahonyart.png
+alt: image-alt
+project-date: Sept 2020
+client: Peter Mahony
+link: https://www.petermahonyart.com
+description: Online store to showcase an artist's paintings and photography prints.
+---
