@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+date: 2021-05-12
+img: caitriona-page.png
+alt: image-alt
+project-date: May 2021
+link: https://caitrionadevery.ie
+description: Portfolio site for food writer Caitriona Devery to showcase projects, writings and information about her work.
+---
